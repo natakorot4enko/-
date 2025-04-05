@@ -1,2 +1,2 @@
-# -
+# Cypress JavaScript
 Автотесты
